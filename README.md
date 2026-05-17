@@ -7,7 +7,7 @@ Teach myself drone assembly and flight controller development using online resou
 Design and build a **high-performance, low-cost quadcopter** with the following features:
 - Remote control capability  
 - GPS integration  
-- Custom flight controller developed in **C**
+- Custom flight controller and its modules developed in **C** using HAL drivers.
 
 Flight Control Loop Diagram (Cascade PID)
 
